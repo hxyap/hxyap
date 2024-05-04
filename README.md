@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Hong Xian</h1>
-<h3 align="center">I like making number go up :)</h3>
+<h3 align="center"> My passions are: DevOps / Backend Engineering / Data Engineering</h3>
 
-- 🌱 I’m currently learning **Rust/Redis/System Design/NLP**
+- 🌱 I’m currently learning **Redis/ Golang/ System Design/NLP**
 
-- 📫 How to reach me **yap.hong.xian@gmail.com**
+- 📫 Reach me at: **yap.hong.xian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
