@@ -8,7 +8,7 @@
 - Scraper for Straits Times/ EDMW (tbd: clean this for open sourcing <3), developed during my summer research internship
 
 <br>
-- 🌱 I’m currently learning **Redis/ Golang/ System Design/NLP**
+- 🌱 I’m currently learning <b>Redis / Golang (making a discord bot for fixing twitter linkes + other utils) / System Design (for AWS Solution Architect!) </b>
 
 
 - 📫 Reach me at: **yap.hong.xian@gmail.com**
