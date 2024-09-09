@@ -16,4 +16,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxyap)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxyap&show_icons=true&locale=en" alt="hxyap" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxyap)](https://github.com/anuraghazra/github-readme-stats)
