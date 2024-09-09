@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Hong Xian</h1>
 <h3 align="center"> My passions are: DevOps / Backend Engineering / Data Engineering</h3>
-
+<p> Past projects I've worked on:</p>
+- Scraper for Straits Times/ EDMW (tbd: clean this for open sourcing <3), developed during my summer research internship
 - 🌱 I’m currently learning **Redis/ Golang/ System Design/NLP**
 
 - 📫 Reach me at: **yap.hong.xian@gmail.com**
